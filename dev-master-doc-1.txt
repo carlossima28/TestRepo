@@ -1,1 +1,2 @@
-1 change-dev-master
+1 change-dev-master 1 change-feature
+2 change-feature
